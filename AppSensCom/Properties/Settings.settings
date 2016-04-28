@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AppSensCom.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SpGetListPacienteByIdEmpresa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EXEC spGetListPacienteByIdEmpresa {0}</Value>
+    </Setting>
+    <Setting Name="SpGetListSensorByIdUsario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EXEC spGetListSensorByIdUsario {0}</Value>
+    </Setting>
+    <Setting Name="spGetListSensor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EXEC spGetListSensor</Value>
+    </Setting>
+    <Setting Name="ConexionRetryTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">35000</Value>
+    </Setting>
+    <Setting Name="SpAddResultPaciente" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EXEC spAddResultPaciente {0}, {1}, '{2}', '{3}'</Value>
+    </Setting>
+    <Setting Name="QuantityResult" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="NameFileResultMedidas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\Results.xml</Value>
+    </Setting>
+    <Setting Name="PathCloudTool" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\CloudTool\HumanVolumeCalculator\bin\Debug\HumanVolumeCalculator.exe</Value>
+    </Setting>
+    <Setting Name="NameAppCloud" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">HumanVolumeCalculator</Value>
+    </Setting>
+    <Setting Name="PathSpeech" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\Speech2\bin\AnyCPU\Debug\SpeechBasics-WPF.exe</Value>
+    </Setting>
+    <Setting Name="SecondsBySensor" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

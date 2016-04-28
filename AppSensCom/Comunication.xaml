@@ -1,0 +1,64 @@
+﻿<Window x:Class="AppSensCom.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:DV="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+		Title="Comunication" Height="586.741" Width="840.69" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Foreground="#FFF0EAEA">
+	<Window.Background>
+		<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+			<GradientStop Color="#FFE8EEF4" Offset="1"/>
+			<GradientStop Color="#FF487FB9" Offset="0.717"/>
+			<GradientStop Color="#FFDDE6F0" Offset="1"/>
+		</LinearGradientBrush>
+	</Window.Background>
+	<Grid>
+		<TextBlock Text="Comunicación Sensores" TextAlignment="Center" FontSize="16" FontWeight="Bold" Margin="243,20,215,0"/>
+		<TextBlock Text="Paciente" TextAlignment="Center" Margin="68,332,667,30" x:Name="LblPeso"/>
+		<TextBlock Text="Paciente" TextAlignment="Center" Margin="679,332,26,30" x:Name="LblPulsiometro"/>
+		<TextBlock Text="Paciente" TextAlignment="Center" Margin="521,332,184,30" x:Name="LblGlucometro"/>
+		<TextBlock Text="Paciente" TextAlignment="Center" Margin="369,332,336,30" x:Name="LblElectro"/>
+		<TextBlock Text="Paciente" TextAlignment="Center" Margin="207,332,498,30" x:Name="LblMedida"/>
+		<Grid HorizontalAlignment="Center" VerticalAlignment="Top" Height="80" Width="331" Margin="247,60,257,0">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="0*"/>
+				<ColumnDefinition/>
+				<ColumnDefinition/>
+			</Grid.ColumnDefinitions>
+			<Grid.RowDefinitions>
+				<RowDefinition/>
+				<RowDefinition Height="0*"/>
+				<RowDefinition Height="20*"/>
+				<RowDefinition Height="20*"/>
+				<RowDefinition Height="20*"/>
+			</Grid.RowDefinitions>
+			<TextBlock Text="Puerto:" TextAlignment="Right" Padding="0,0,10,0" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="3"/>
+			<TextBlock Grid.Row="3" Text="Velocidad de Transmisión:" TextAlignment="Center" Padding="0,0,10,0" HorizontalAlignment="Right" Width="150" Grid.ColumnSpan="2"/>
+			<ComboBox x:Name="CmbPort" Grid.Column="2" Grid.RowSpan="3"/>
+			<TextBox x:Name="TxtPort" Grid.Column="2" Visibility="Hidden" Grid.RowSpan="3"/>
+			<ComboBox x:Name="CmbVelTrans" Grid.Row="3" Grid.Column="2" />
+		</Grid>
+		<Image HorizontalAlignment="Left" Margin="392,361,0,0" VerticalAlignment="Top" Source="images/Electrocardiograma.png" x:Name="ImgElectro" Stretch="Fill" Height="83" Width="82"/>
+		<Image HorizontalAlignment="Left" Height="83" Margin="547,361,0,0" VerticalAlignment="Top" Width="82" Source="images/glucometro.png" Stretch="Fill"/>
+		<Image HorizontalAlignment="Left" Height="83" Margin="700,361,0,0" VerticalAlignment="Top" Width="82" Source="images/pulsiometro.png" Stretch="Fill"/>
+		<Image HorizontalAlignment="Left" Margin="232,361,0,0" VerticalAlignment="Top" Source="images/medidas.png" x:Name="ImgElectro_Copy" Stretch="Fill" Height="83" Width="82"/>
+		<StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+			<TextBlock Text="" x:Name="TxtMensaje" FontSize="14" FontWeight="Bold" Foreground="#FFF70909"/>
+		</StackPanel>
+		<Button x:Name="BtnElectro" Content="Electrocardiograma" HorizontalAlignment="Left" Margin="377,466,0,0" VerticalAlignment="Top" Width="114"/>
+		<Button x:Name="BtnPulsiometro" Content="Pulsiometro" HorizontalAlignment="Left" Margin="708,466,0,0" VerticalAlignment="Top" Width="74"/>
+		<Button x:Name="BtnGlucometro" Content="Glucometro" HorizontalAlignment="Left" Margin="551,466,0,0" VerticalAlignment="Top" Width="74"/>
+		<Button x:Name="BtnNextMedida" Content="=&gt;" HorizontalAlignment="Left" Margin="177,403,0,0" VerticalAlignment="Top" Width="37"/>
+		<Button x:Name="BtnNextElectro" Content="=&gt;" HorizontalAlignment="Left" Margin="343,403,0,0" VerticalAlignment="Top" Width="37"/>
+		<Button x:Name="BtnNextGlucometro" Content="=&gt;" HorizontalAlignment="Left" Margin="500,403,0,0" VerticalAlignment="Top" Width="37"/>
+		<Button x:Name="BtnNextPulsiometro" Content="=&gt;" HorizontalAlignment="Left" Margin="649,403,0,0" VerticalAlignment="Top" Width="37"/>
+		<Button x:Name="BtnMedidas" Content="Medidas" HorizontalAlignment="Left" Margin="237,466,0,0" VerticalAlignment="Top" Width="74"/>
+		<Button x:Name="BtnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="560,140,0,0" VerticalAlignment="Top" Width="74"/>
+		<Button x:Name="BtnDetener" Content="Detener" HorizontalAlignment="Left" Margin="212,139,0,0" VerticalAlignment="Top" Width="74" />
+		<Button x:Name="BtnSalir" Content="Salir" HorizontalAlignment="Left" Margin="383,140,0,0" VerticalAlignment="Top" Width="74"/>
+		<Button x:Name="BtnPeso" Content="Peso" HorizontalAlignment="Left" Margin="83,466,0,0" VerticalAlignment="Top" Width="74"/>
+		<Button x:Name="BtnNextPeso" Content="=&gt;" HorizontalAlignment="Left" Margin="27,403,0,0" VerticalAlignment="Top" Width="37"/>
+		<Image HorizontalAlignment="Left" Margin="78,361,0,0" VerticalAlignment="Top" Source="images/peso.png" x:Name="ImgPeso" Stretch="Fill" Height="83" Width="82"/>
+		<TextBox x:Name="Txtlog" Text="" Width="450" Height="110" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Margin="196,190,189,258" />
+		<Label x:Name="LblNextRotation" Content="Proxima Rotación en: " HorizontalAlignment="Left" Height="32" Margin="0,2,0,0" VerticalAlignment="Top" Width="380" FontSize="17.333" FontWeight="Bold" Foreground="#FFF1F127"/>
+	</Grid>
+</Window>

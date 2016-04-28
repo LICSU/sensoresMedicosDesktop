@@ -1,0 +1,186 @@
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.config
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.manifest
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.application
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.pdb
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\DynamicDataDisplay.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.baml
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.baml
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.g.cs
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.g.cs
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\App.g.cs
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom_MarkupCompile.cache
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.g.resources
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.Properties.Resources.resources
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.csproj.GenerateResource.Cache
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.TrustInfo.xml
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe.manifest
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.application
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.pdb
+C:\Users\eperdomo\Documents\Visual Studio 2013\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.config
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.manifest
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.application
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.pdb
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.baml
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.baml
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.g.cs
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.g.cs
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\App.g.cs
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom_MarkupCompile.cache
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.g.resources
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.TrustInfo.xml
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe.manifest
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.application
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe
+C:\Users\Edward\Documents\Visual Studio 2012\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.pdb
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.config
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.manifest
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.application
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.pdb
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\DynamicDataDisplay.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.baml
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.baml
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.g.cs
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.g.cs
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\App.g.cs
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom_MarkupCompile.cache
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.g.resources
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.TrustInfo.xml
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe.manifest
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.application
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.pdb
+C:\Users\eperdomo\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.config
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.manifest
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.application
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\AppSensCom.pdb
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.baml
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.baml
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Comunication.g.cs
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\Electro.g.cs
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\App.g.cs
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom_MarkupCompile.cache
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.g.resources
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.TrustInfo.xml
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe.manifest
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.application
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.pdb
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\AppSensCom\AppSensCom\obj\Debug\AppSensCom.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.config
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe.manifest
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\AppSensCom.application
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\AppSensCom.exe
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\AppSensCom.pdb
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\DynamicDataDisplay.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\Comunication.baml
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\Electro.baml
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\Comunication.g.cs
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\Electro.g.cs
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\App.g.cs
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom_MarkupCompile.cache
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom.g.resources
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom.TrustInfo.xml
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe.manifest
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom.application
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom.exe
+C:\Aplicaciones\LICSU\AppSensCom\AppSensCom\obj\Debug\AppSensCom.pdb
